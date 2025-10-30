@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://amanbhandari.com.np", 
+  "homepage": "https://aman-7831.github.io/amanbhandari/", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
