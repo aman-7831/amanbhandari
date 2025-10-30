@@ -54,7 +54,7 @@ export default function Contact() {
 
             <div className="space-y-4">
               <a
-                href="mailto:your.email@example.com"
+                href="mailto:connect@amanbhandari.com.np"
                 className="flex items-center gap-4 p-4 bg-gray-50 dark:bg-gray-950 rounded-lg border border-gray-200 dark:border-gray-800 hover:border-primary dark:hover:border-primary transition-all"
               >
                 <div className="w-12 h-12 bg-primary/10 dark:bg-primary/20 rounded-lg flex items-center justify-center">
@@ -62,12 +62,12 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="font-medium text-gray-900 dark:text-white">Email</p>
-                  <p className="text-gray-600 dark:text-gray-400">your.email@example.com</p>
+                  <p className="text-gray-600 dark:text-gray-400">connect@amanbhandari.com.np</p>
                 </div>
               </a>
 
               <a
-                href="https://linkedin.com/in/yourprofile"
+                href="https://www.linkedin.com/in/aman7831/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 p-4 bg-gray-50 dark:bg-gray-950 rounded-lg border border-gray-200 dark:border-gray-800 hover:border-primary dark:hover:border-primary transition-all"
@@ -77,11 +77,11 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="font-medium text-gray-900 dark:text-white">LinkedIn</p>
-                  <p className="text-gray-600 dark:text-gray-400">linkedin.com/in/yourprofile</p>
+                  <p className="text-gray-600 dark:text-gray-400">aman7831</p>
                 </div>
               </a>
 
-              <a
+              {/* <a
                 href="https://github.com/yourusername"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -94,7 +94,7 @@ export default function Contact() {
                   <p className="font-medium text-gray-900 dark:text-white">GitHub</p>
                   <p className="text-gray-600 dark:text-gray-400">github.com/yourusername</p>
                 </div>
-              </a>
+              </a> */}
             </div>
           </div>
 

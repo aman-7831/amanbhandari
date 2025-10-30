@@ -13,7 +13,7 @@ export default function Hero() {
             <div className="space-y-2">
               <p className="text-primary text-lg font-medium">Hello, I'm</p>
               <h1 className="text-5xl md:text-6xl font-bold text-gray-900 dark:text-white">
-                Your Name
+                Aman Bhandari
               </h1>
               <h2 className="text-2xl md:text-3xl text-gray-600 dark:text-gray-400">
                 Data Analyst
@@ -42,12 +42,7 @@ export default function Hero() {
 
           <div className="relative">
             <div className="w-full h-96 bg-gradient-to-br from-primary/20 to-primary/5 dark:from-primary/30 dark:to-primary/10 rounded-2xl flex items-center justify-center">
-              <div className="text-center space-y-4">
-                <div className="w-48 h-48 mx-auto bg-primary/10 dark:bg-primary/20 rounded-full flex items-center justify-center">
-                  <span className="text-6xl">📊</span>
-                </div>
-                <p className="text-gray-600 dark:text-gray-400">Replace with your photo</p>
-              </div>
+              <img src="./dist/img/Main.png" alt="" />
             </div>
           </div>
         </div>

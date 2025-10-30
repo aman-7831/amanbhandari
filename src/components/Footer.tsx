@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-center md:text-left">
             <p className="text-gray-600 dark:text-gray-400 flex items-center gap-2">
-              Made with <Heart size={16} className="text-primary fill-primary" /> by Your Name
+              Made with <Heart size={16} className="text-primary fill-primary" /> Aman Bhandari
             </p>
           </div>
           <div className="text-center md:text-right">
